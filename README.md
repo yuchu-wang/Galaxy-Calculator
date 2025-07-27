@@ -40,7 +40,7 @@ No external libraries required.
 
 ## 📖 Example
  
-<pre> Hi! Welcome to the galaxy calculator.
+<pre>Hi! Welcome to the galaxy calculator.
 What galaxy are we looking at today? Andromeda
 Please select what you would like to calculate:
 'spectral shift', 'velocity', 'distance' velocity
