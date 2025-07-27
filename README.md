@@ -49,8 +49,7 @@ Enter frequency in laboratory conditions (in Hz): 4.57e14
 Enter observed frequency (in Hz): 4.53e14
 
 Velocity = 2.63e+06 m/s
-Andromeda galaxy is travelling away from Earth with a speed of 2630000.0 m/s.
-<pre> ```
+Andromeda galaxy is travelling away from Earth with a speed of 2630000.0 m/s. ``` </pre>
 
 ---
 
